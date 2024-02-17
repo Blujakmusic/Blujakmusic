@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any frontend / design or python based projects.
 - 📫 How to reach me: blujakmusic@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm ambidextrous 🤠
+- ⚡ Fun fact: I'm ambidextrous but I identify as a lefty 🤠
