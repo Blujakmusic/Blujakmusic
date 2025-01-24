@@ -2,6 +2,5 @@
 - 👀 I’m interested in Python development, Frontend Development, Software Engineering, UX / UI, Graphic Design, music and weightlifting.
 - 🌱 I’m currently learning SQL + PHP.
 - 💞️ I’m looking to collaborate on any frontend / design or python based projects.
-- 📫 How to reach me: blujakmusic@gmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me: brandsbybodine@gmail.com
 - ⚡ Fun fact: I'm ambidextrous but I identify as a lefty 🤠
